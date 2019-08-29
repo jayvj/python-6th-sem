@@ -1,0 +1,12 @@
+String: HACK
+All possible combinations, up to size k, of the string in lexicographic sorted order:
+A
+C
+H
+K
+AC
+AH
+AK
+CH
+CK
+HK

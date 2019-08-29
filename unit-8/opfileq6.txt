@@ -1,0 +1,3 @@
+List: a a c d 
+Combinations of the list: ('a', 'a') ('a', 'c') ('a', 'd') ('a', 'c') ('a', 'd') ('c', 'd') 
+Probability that at least one of the K indices selected will contain the letter:'a': 0.8333

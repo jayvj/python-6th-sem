@@ -1,0 +1,14 @@
+String: HACK
+All possible permutations of size k of the string in lexicographic sorted order:
+AC
+AH
+AK
+CA
+CH
+CK
+HA
+HC
+HK
+KA
+KC
+KH

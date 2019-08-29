@@ -1,0 +1,2 @@
+List1: 1 2 3 a b 
+Iterating list from the reverse direction: b a 3 2 1 

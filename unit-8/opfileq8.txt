@@ -1,0 +1,8 @@
+List1: a b c 
+List2: d e f 
+
+izip function:
+Position, list1:element, list2:element:
+0 a d
+1 b e
+2 c f

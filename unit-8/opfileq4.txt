@@ -1,0 +1,12 @@
+String: HACK
+All possible size k replacement combinations of the string in lexicographic sorted order:
+AA
+AC
+AH
+AK
+CC
+CH
+CK
+HH
+HK
+KK
